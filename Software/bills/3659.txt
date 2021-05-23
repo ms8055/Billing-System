@@ -1,0 +1,25 @@
+	 Welcome To Super Market
+ Bill Number:3659
+ Customer Number:Marcus
+ Phone Number:8356886952
+ Customer Email:mac
+=========================================
+ Products		QTY		Price
+=========================================
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+ Jack&Jones		1		1700
+
+=========================================
+ Sub Amount:			Rs.18700.00
+ Tax Amount:			Rs.170.00
+ Total Amount:			Rs.18870.00
+=========================================

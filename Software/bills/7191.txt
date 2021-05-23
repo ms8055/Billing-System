@@ -1,0 +1,30 @@
+	 Welcome To Super Market
+ Bill Number:7191
+ Customer Number:hdgavcghv
+ Phone Number:cghfcghdfc
+ Customer Email:vhkd
+=========================================
+ Products		QTY		Price
+=========================================
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+ Ponds		1		40
+
+=========================================
+ Sub Amount:			Rs.640.00
+ Tax Amount:			Rs.6.00
+ Total Amount:			Rs.646.00
+=========================================

@@ -1,0 +1,29 @@
+	 Welcome To Super Market
+ Bill Number:6787
+ Customer Number:
+ Phone Number:
+ Customer Email:
+=========================================
+ Products		QTY		Price
+=========================================
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+ Bajaj		1		30
+
+====================================
+ Sub Amount:			Rs.450.00
+ Tax Amount:			Rs.4.20
+ Total Amount:			Rs.454.20
+====================================
