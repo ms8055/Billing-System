@@ -1,0 +1,43 @@
+{
+   "Clothing":{
+      "Pant":[
+         {
+            "Levis":3000
+         },
+         {
+            "HRX":3000
+         },
+         {
+            "Clavin":5000
+         },
+         {
+            "Spykar":1000
+         },
+         {
+            "Roadster":5000
+         }
+      ],
+      "T-Shirt":[
+         {
+            "Polo":3000
+         },
+         {
+            "Roadster":3000
+         },
+         {
+            "Jack&Jones":5000
+         }
+      ],
+      "Shirt":[
+         {
+            "Peter England'":3000
+         },
+         {
+            "Louis Phillips":3000
+         },
+         {
+            "Park Avenue":5000
+         }
+      ]
+   }
+}
